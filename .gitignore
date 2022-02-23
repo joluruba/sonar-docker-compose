@@ -1,0 +1,10 @@
+target/
+java-project/
+postgresql/
+postgresql_data/
+sonarqube_data/
+sonarqube_extensions/
+sonarqube_logs/
+*.pdf
+pom.xml
+*.jar
